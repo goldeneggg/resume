@@ -1,9 +1,10 @@
-__Last Update: 2021/01/04__
+__Last Update: 2021/01/09__
 
 
 <!-- TOC depthFrom:1 -->
 
 - [職務経歴](#職務経歴)
+  - [2021/01 - （現在） : 合同会社Practa（代表社員）](#202101---現在--合同会社practa代表社員)
   - [2018/12 - 2020/12 : horizoon（個人事業主）](#201812---202012--horizoon個人事業主)
   - [2015/03 - 2018/11 : freee株式会社](#201503---201811--freee株式会社)
   - [2011/10 - 2015/02 : グリー株式会社](#201110---201502--グリー株式会社)
@@ -38,16 +39,21 @@ __Last Update: 2021/01/04__
 
 
 
-| Name     | 坂本　二巳憲 (Fuminori Sakamoto)                                 |
-| -------- | ---------------------------------------------------------- |
-| Medium   | https://medium.com/@s0k0mata                               |
-| Qiita    | https://qiita.com/jpshadowapps                             |
-| Acclaim  | https://www.youracclaim.com/users/fuminori-sakamoto/badges |
-| Linkedin | https://www.linkedin.com/in/horizoon-sakamoto/             |
-| Facebook | https://www.facebook.com/fuminori.sakamoto                 |
+| Name      | 坂本　二巳憲 (Fuminori Sakamoto)                                 |
+| --------- | ---------------------------------------------------------- |
+| Portfolio | https://horizoon.jp                                        |
+| Medium    | https://medium.com/@s0k0mata                               |
+| Qiita     | https://qiita.com/jpshadowapps                             |
+| Acclaim   | https://www.youracclaim.com/users/fuminori-sakamoto/badges |
+| Linkedin  | https://www.linkedin.com/in/horizoon-sakamoto/             |
+| Facebook  | https://www.facebook.com/fuminori.sakamoto                 |
 
 
 # 職務経歴
+
+## 2021/01 - （現在） : 合同会社Practa（代表社員）
+
+2021年1月4日付で法人成りし、合同会社Practaを設立しました。
 
 ## 2018/12 - 2020/12 : horizoon（個人事業主）
 
