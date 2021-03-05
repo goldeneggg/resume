@@ -37,23 +37,29 @@ __Last Update: 2021/01/09__
 
 <!-- /TOC -->
 
-
-
 | Name      | 坂本　二巳憲 (Fuminori Sakamoto)                                 |
 | --------- | ---------------------------------------------------------- |
 | Portfolio | https://horizoon.jp                                        |
 | Medium    | https://medium.com/@s0k0mata                               |
 | Qiita     | https://qiita.com/jpshadowapps                             |
+| Zenn      | https://zenn.dev/goldeneggg                                |
 | Acclaim   | https://www.youracclaim.com/users/fuminori-sakamoto/badges |
 | Linkedin  | https://www.linkedin.com/in/horizoon-sakamoto/             |
 | Facebook  | https://www.facebook.com/fuminori.sakamoto                 |
-
 
 # 職務経歴
 
 ## 2021/01 - （現在） : 合同会社Practa（代表社員）
 
 2021年1月4日付で法人成りし、[合同会社Practa](https://www.practa.co.jp/) を設立しました。
+以下その取引内容になります
+
+- 【2020/03 - : VRサービス運営企業様】
+  - 技術面＆マネジメント面の課題解決と、そのご支援 サーバーサイドエンジニア（含: マネジメントサポート）
+      - Ruby(Rails), Vue.js, AWS, GitHub, CircleCI, Qiita Team
+- 【2020/02 - 2020/02 : 前払いサービス運営企業様】
+  - 新規事業開発のコンサルティング、既存機能改善のご提案 エンジニア
+      - Python(Django), Angular, Docker(Docker Compose), AWS(EC2, RDS(MySQL), S3 等), GitHub, CircleCI, Asana, DocBase
 
 ## 2018/12 - 2020/12 : horizoon（個人事業主）
 
