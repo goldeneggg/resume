@@ -1,4 +1,4 @@
-__Last Update: 2021/03/17__
+__Last Update: 2021/04/08__
 
 
 <!-- TOC depthFrom:1 -->
@@ -42,15 +42,15 @@ __Last Update: 2021/03/17__
 
 <!-- /TOC -->
 
-| Name      | 坂本　二巳憲 (Fuminori Sakamoto)                                 |
-| --------- | ---------------------------------------------------------- |
-| Portfolio | https://horizoon.jp                                        |
-| Medium    | https://medium.com/@s0k0mata                               |
-| Qiita     | https://qiita.com/jpshadowapps                             |
-| Zenn      | https://zenn.dev/goldeneggg                                |
-| Acclaim   | https://www.youracclaim.com/users/fuminori-sakamoto/badges |
-| Linkedin  | https://www.linkedin.com/in/horizoon-sakamoto/             |
-| Facebook  | https://www.facebook.com/fuminori.sakamoto                 |
+| Name      | 坂本　二巳憲 (Fuminori Sakamoto)                            |
+| --------- | ----------------------------------------------------- |
+| Portfolio | https://horizoon.jp                                   |
+| Medium    | https://medium.com/@s0k0mata                          |
+| Qiita     | https://qiita.com/jpshadowapps                        |
+| Zenn      | https://zenn.dev/goldeneggg                           |
+| Linkedin  | https://www.linkedin.com/in/horizoon-sakamoto/        |
+| Credly    | https://www.credly.com/users/fuminori-sakamoto/badges |
+| Facebook  | https://www.facebook.com/fuminori.sakamoto            |
 
 # 職務経歴
 
@@ -60,7 +60,7 @@ __Last Update: 2021/03/17__
 以下その取引内容になります
 
 - 【2020/03 - : VRサービス運営企業様】
-  - 技術面＆マネジメント面の課題解決と、そのご支援 サーバーサイドエンジニア（含: マネジメントサポート）
+  - 技術面＆マネジメント面の課題解決と、そのご支援 サーバーサイドエンジニア
       - Ruby(Rails), Vue.js, AWS, GitHub, CircleCI, Qiita Team
 - 【2020/02 - 2020/02 : 前払いサービス運営企業様】
   - 新規事業開発のコンサルティング、既存機能改善のご提案 エンジニア
@@ -96,12 +96,11 @@ __Last Update: 2021/03/17__
 - 金融事業開発（主に金融機関との協業プロジェクト推進）及びその運用
   - Ruby(Rails), Go, CoffeeScript(Backbone.js), Docker, Kubernetes, Fluentd, AWS(EC2, RDS(MySQL), ECS, S3, KMS 等), GitHub, CircleCI, JIRA, Qiita Team
   - 主に技術面での対外折衝
-  - チーム発足第1号エンジニアとして参画し、後期はチームマネジメント兼務
+  - チーム発足第1号エンジニアとして参画、後期はエンジニアリングマネージャー
 - マイナンバー管理サービスの機能拡張・運用
   - Ruby(Rails), AWS(EC2, RDS(MySQL), S3, KMS 等), GitHub, CircleCI, Asana, Qiita Team
 - 課金基盤リニューアル、クーポン基盤開発
   - Ruby(Rails), AWS(EC2, RDS(MySQL), S3 等), GitHub, CircleCI, Asana, Qiita Team
-
 
 ## 2011/10 - 2015/02 : グリー株式会社
 
@@ -109,7 +108,6 @@ __Last Update: 2021/03/17__
   - PHP, MySQL, Apache, GitHub Enterprise, JIRA, Confluence
 - サービス内通貨基盤の設計・開発・運用
   - PHP, MySQL, Apache, GitHub Enterprise, JIRA, Confluence
-
 
 ## 2004/01 - 2011/09 : テンプスタッフ・テクノロジー株式会社
 
@@ -126,13 +124,11 @@ __Last Update: 2021/03/17__
 - 証券会社での、持株会支援システムの設計・開発
   - Java, Oracle, IIS, WebSphere
 
-
 ## 2000/04 - 2003/09 : NSD株式会社
 
 - 販売物流メーカーシステム Web移行プロジェクトのマネジメント・設計業務
 - 市役所向け介護保険システムの設計・開発業務
   - 技術スタック: 汎用機（日立製）、COBOL
-
 
 ## 学歴
 
@@ -191,14 +187,14 @@ __Last Update: 2021/03/17__
   - Step Functions
   - RDS
   - CloudWatch
-  - CloudFormation/CDK
-  - CodeXXX系プロダクト
+  - CodePipeline / CodeBuild / CodeDeploy
   - IAM
   - KMS
   - SystemsManager
   - CloudTrail
-  - [ソリューションアーキテクト・アソシエイト認定資格の所有者](https://www.youracclaim.com/badges/d224606c-d57b-4468-9c34-6141b109f411) です
-  - [デベロッパー・アソシエイト認定資格の所有者](https://www.youracclaim.com/badges/147bf234-70a1-418c-afc4-38d92e541ee4) です
+  - CloudFormation
+      - CDKは初級者レベルです
+      - Terraformはほぼ未経験です（学習した程度）
 
 ## エンジニア組織マネジメント、及びそのアドバイザー
 
@@ -208,6 +204,7 @@ __Last Update: 2021/03/17__
   - 負債返却
   - スクラム運用支援
   - エンジニア採用計画策定
+- [manager-readme をこちらに公開しております](https://github.com/goldeneggg/manager-readme)
 
 ## システム開発に関するコンサルティング
 
@@ -220,7 +217,6 @@ __Last Update: 2021/03/17__
 - スキルセット = ふわっとした要望を詳細レベルに落とし込んでドキュメント化するプロセスが得意です
   - 各種ヒアリング
   - 各種ドキュメンテーション
-
 
 # スキルセット
 
@@ -255,7 +251,6 @@ __Last Update: 2021/03/17__
 - Java
 - COBOL
 
-
 ## クラウドサービス
 
 ### ★★★
@@ -264,10 +259,11 @@ __Last Update: 2021/03/17__
   - 得意分野
       - サービスをデプロイし、極力自動化した運用フローを構築する
       - 要所要所でサーバーレスも活用する
+      - Infrastructure as CodeのツールはCloudFormationの利用頻度が多いです
   - 所有資格
-      - [ソリューションアーキテクト – アソシエイト](https://www.youracclaim.com/badges/d224606c-d57b-4468-9c34-6141b109f411).
-      - [デベロッパー – アソシエイト](https://www.youracclaim.com/badges/147bf234-70a1-418c-afc4-38d92e541ee4).
-      - [SysOps – アソシエイト](https://www.youracclaim.com/badges/eabf13a5-389a-46dc-9818-585f514f8d67).
+      - [ソリューションアーキテクト – アソシエイト](https://www.credly.com/badges/d224606c-d57b-4468-9c34-6141b109f411).
+      - [デベロッパー – アソシエイト](https://www.credly.com/badges/147bf234-70a1-418c-afc4-38d92e541ee4).
+      - [SysOps – アソシエイト](https://www.credly.com/badges/eabf13a5-389a-46dc-9818-585f514f8d67).
 
 ### ★★
 
@@ -287,7 +283,6 @@ __Last Update: 2021/03/17__
   - Debian
   - Ubuntu
 
-
 ### ★★
 
 - Nginx
@@ -305,7 +300,6 @@ __Last Update: 2021/03/17__
 - JBoss
 - Hadoop
 
-
 ## その他技術系（固有分野、開発環境、ツールなど）
 
 ### ★★★
@@ -316,7 +310,6 @@ __Last Update: 2021/03/17__
 - Vim (NeoVim)
 - Bash
 - Zsh
-
 
 ### ★★
 
@@ -333,11 +326,9 @@ __Last Update: 2021/03/17__
 - JIRA and Confluence
 - Google Docs
 
-
 ### ★
 
 - Ansible
-
 
 ## 事業系 / 非・技術系分野
 
@@ -363,7 +354,6 @@ __Last Update: 2021/03/17__
   - 官公庁
   - 銀行
   - 証券
-
 
 # 強み / 得意
 
@@ -396,5 +386,4 @@ __Last Update: 2021/03/17__
 
 - 自社のプロダクト、プラットフォームに関わる仕事
   - 逆に言うと、SIerへの関心は薄い
-- 個人事業主や中小企業の活動をより良くする領域のサービス
-  - 与信スコアの可視性と質の向上
+- 個人事業主や中小企業の活動をより良くする領域のB2Bサービス
