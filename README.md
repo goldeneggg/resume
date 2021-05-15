@@ -1,4 +1,4 @@
-__Last Update: 2021/04/08__
+__Last Update: 2021/05/15__
 
 
 <!-- TOC depthFrom:1 -->
@@ -14,8 +14,8 @@ __Last Update: 2021/04/08__
 - [合同会社Practaでのお取り扱い可能案件](#合同会社practaでのお取り扱い可能案件)
   - [Webサービス, マイクロサービス開発に関する業務全般](#webサービス-マイクロサービス開発に関する業務全般)
   - [AWSのインフラ設計・構築、DevOps環境整備](#awsのインフラ設計構築devops環境整備)
-  - [エンジニア組織マネジメント、及びそのアドバイザー](#エンジニア組織マネジメント及びそのアドバイザー)
   - [システム開発に関するコンサルティング](#システム開発に関するコンサルティング)
+  - [エンジニア組織マネジメント、及びそのアドバイザー](#エンジニア組織マネジメント及びそのアドバイザー)
 - [スキルセット](#スキルセット)
   - [言語 / フレームワーク](#言語--フレームワーク)
     - [★★★](#)
@@ -60,7 +60,7 @@ __Last Update: 2021/04/08__
 以下その取引内容になります
 
 - 【2020/03 - : VRサービス運営企業様】
-  - 技術面＆マネジメント面の課題解決と、そのご支援 サーバーサイドエンジニア
+  - 技術面（サーバーサイド、AWS（特にCD・デプロイパイプラインの改善））の課題解決と、マネジメント面のご支援
       - Ruby(Rails), Vue.js, AWS, GitHub, CircleCI, Qiita Team
 - 【2020/02 - 2020/02 : 前払いサービス運営企業様】
   - 新規事業開発のコンサルティング、既存機能改善のご提案 エンジニア
@@ -95,7 +95,7 @@ __Last Update: 2021/04/08__
 
 - 金融事業開発（主に金融機関との協業プロジェクト推進）及びその運用
   - Ruby(Rails), Go, CoffeeScript(Backbone.js), Docker, Kubernetes, Fluentd, AWS(EC2, RDS(MySQL), ECS, S3, KMS 等), GitHub, CircleCI, JIRA, Qiita Team
-  - 主に技術面での対外折衝
+  - 技術面での対外折衝
   - チーム発足第1号エンジニアとして参画、後期はエンジニアリングマネージャー
 - マイナンバー管理サービスの機能拡張・運用
   - Ruby(Rails), AWS(EC2, RDS(MySQL), S3, KMS 等), GitHub, CircleCI, Asana, Qiita Team
@@ -174,37 +174,33 @@ __Last Update: 2021/04/08__
 ## AWSのインフラ設計・構築、DevOps環境整備
 
 - 対応可能業務 = 小・中規模程度のソリューションアーキテクト業務
-  - サーバーレスアーキテクチャ導入
+  - サーバーレスアーキテクチャ導入推進
+  - コンテナ・アーキテクチャ導入推進
   - CI/CD環境構築, 自動化推進
 - スキルセット = コンテナ領域やサーバーレス領域などのアプリエンジニアが関わる機会が多い領域や、各種自動化系プロダクトの取り扱いが得意です
-  - ECS/Fargete  ※ EKSは未経験です
+  - EC2
+  - ELB
+  - ECS / Fargete
+      - ※ EKSは未経験です
+  - RDS / Aurora
+  - S3
   - Lambda
   - API Gateway
   - SQS
   - DynamoDB
-  - S3
   - Event Bridge
-  - Step Functions
-  - RDS
+  - SNS
   - CloudWatch
   - CodePipeline / CodeBuild / CodeDeploy
+  - CloudFormation
+      - ※ CDKは初級者レベルです
+      - ※ Terraformはほぼ未経験です（学習した程度）
   - IAM
   - KMS
-  - SystemsManager
+  - Systems Manager
+  - Secrets Manager
+  - AWS Config
   - CloudTrail
-  - CloudFormation
-      - CDKは初級者レベルです
-      - Terraformはほぼ未経験です（学習した程度）
-
-## エンジニア組織マネジメント、及びそのアドバイザー
-
-- 対応可能業務 = 外注依存脱却やエンジニア採用強化などを動機として開発組織構築のお手伝いが可能です
-  - 内製化支援
-  - 属人化脱却
-  - 負債返却
-  - スクラム運用支援
-  - エンジニア採用計画策定
-- [manager-readme をこちらに公開しております](https://github.com/goldeneggg/manager-readme)
 
 ## システム開発に関するコンサルティング
 
@@ -217,6 +213,16 @@ __Last Update: 2021/04/08__
 - スキルセット = ふわっとした要望を詳細レベルに落とし込んでドキュメント化するプロセスが得意です
   - 各種ヒアリング
   - 各種ドキュメンテーション
+
+## エンジニア組織マネジメント、及びそのアドバイザー
+
+- 対応可能業務 = 外注依存脱却やエンジニア採用強化などを動機として開発組織構築のお手伝いが可能です
+  - 内製化支援
+  - 属人化脱却
+  - 負債返却
+  - スクラム運用支援
+  - エンジニア採用計画策定
+- [manager-readme をこちらに公開しております](https://github.com/goldeneggg/manager-readme)
 
 # スキルセット
 
